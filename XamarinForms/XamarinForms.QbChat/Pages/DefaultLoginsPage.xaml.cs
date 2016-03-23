@@ -29,8 +29,8 @@ namespace XamarinForms.QbChat
 
 		public void InitDefault(){
 			var list = new List<DefaultUser> ();
-			list.Add (new DefaultUser () { Name = "Xamarin User 1", Login = "@xamarinuser1", Password = "@xamarinuser1" });
-			list.Add (new DefaultUser () { Name = "Xamarin User 2", Login = "@xamarinuser2", Password = "@xamarinuser2" });
+			list.Add (new DefaultUser () { Name = "Xamarin User 1", Login = "jagadeesh1492", Password = "jagan1492" });
+			list.Add (new DefaultUser () { Name = "Xamarin User 2", Login = "jagadeesh14", Password = "jagan1492" });
 			list.Add (new DefaultUser () { Name = "Xamarin User 3", Login = "@xamarinuser3", Password = "@xamarinuser3" });
 			list.Add (new DefaultUser () { Name = "Xamarin User 4", Login = "@xamarinuser4", Password = "@xamarinuser4" });
 			list.Add (new DefaultUser () { Name = "Xamarin User 5", Login = "@xamarinuser5", Password = "@xamarinuser5" });

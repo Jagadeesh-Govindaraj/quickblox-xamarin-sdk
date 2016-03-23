@@ -13,8 +13,8 @@ namespace XamarinForms.QbChat.Pages
         public LoginPage()
         {
             InitializeComponent();
-			this.login.Text = "logic5@dmail.com";
-			this.password.Text = "logic5@dmail.com";
+			this.login.Text = "jagan@precisesoftware.in";
+			this.password.Text = "jagan1492";
         }
 
         protected override void OnAppearing()

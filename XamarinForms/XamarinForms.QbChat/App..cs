@@ -51,7 +51,7 @@ namespace XamarinForms.QbChat
 
 		public static void SetLoginPage()
 		{
-			((App)App.Current).MainPage = new NavigationPage(new DefaultLoginsPage());
+			((App)App.Current).MainPage = new NavigationPage(new LoginPage());
 		}
 
 		public static void SetMainPage()
